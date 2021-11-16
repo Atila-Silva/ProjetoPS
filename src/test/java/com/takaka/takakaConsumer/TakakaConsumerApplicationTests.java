@@ -1,10 +1,10 @@
-package br.com.ps.PS13SI;
+package com.takaka.takakaConsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Ps13SiApplicationTests {
+class TakakaConsumerApplicationTests {
 
 	@Test
 	void contextLoads() {
