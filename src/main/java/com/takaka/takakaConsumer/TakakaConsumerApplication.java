@@ -33,7 +33,7 @@ public class TakakaConsumerApplication {
 						.basePackage("com.takaka.takakaProducer.controller"))
 				.paths(PathSelectors.any()).build();
 	}
-	
+	/*
 	@Bean
 	public void criaruser2() {
 		indicatorsRepository.save(new IndicatorsModel("goal", "target", "indicator", "series_code", "series_description", "geo_area_code", "geo_area_name", "time_period", "value"));
@@ -43,5 +43,5 @@ public class TakakaConsumerApplication {
 		indicatorsRepository.save(new IndicatorsModel("goal", "target", "indicator", "series_code", "series_description", "geo_area_code", "geo_area_name", "time_period", "value"));
 		indicatorsRepository.save(new IndicatorsModel("goal", "target", "indicator", "series_code", "series_description", "geo_area_code", "geo_area_name", "time_period", "value"));
 	}
-
+	*/
 }
